@@ -1,0 +1,1 @@
+所谓的硬件描述语言（hardware description language, HDL），这个本质上做计算机硬件的都会用到，所以努力学吧，他妈的。

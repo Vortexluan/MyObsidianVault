@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "de3ab4535af39bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "81d951fe0f51977a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0214b1b60633c1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "霍克斯过程（Hawkes process）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "霍克斯过程（Hawkes process）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d2118e6527af076",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47df84b695509e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313e39dbf9ad0463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09d3d4d0e2958464",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0c7b4df5278d5670",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "019e3ee97d586417",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c833f0cb29a141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c97748ee3d95b1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025.5.4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025.5.4"
+            }
+          },
+          {
+            "id": "7b509ddbc80e796f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025.5.4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025.5.4"
+            }
+          },
+          {
+            "id": "39d52eb4d64d80da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "afb3013c0b2e099b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025.5.4.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025.5.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0214b1b60633c1c8",
+  "lastOpenFiles": [
+    "卡特兰数.md",
+    "马尔可夫链.md",
+    "Git.md",
+    "Pandas基础.md",
+    "Verilog.md",
+    "霍克斯过程（Hawkes process）.md",
+    "算法/Vector.md",
+    "算法/Memset.md",
+    "算法/线段树.md",
+    "算法/逆序对数.md",
+    "算法/归并排序.md",
+    "操作系统/能力不够学不明白.md",
+    "CSAPP",
+    "操作系统",
+    "Untitled",
+    "算法",
+    "the outline of modern Chinese history/Untitled.md",
+    "Untitled 1/2025.5.4.md",
+    "the outline of modern Chinese history",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
