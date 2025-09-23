@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "霍克斯过程（Hawkes process）.md",
+                "file": "数学/可能会被迫要学的东西.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "霍克斯过程（Hawkes process）"
+              "title": "可能会被迫要学的东西"
             }
           }
         ]
@@ -171,12 +171,15 @@
   },
   "active": "0214b1b60633c1c8",
   "lastOpenFiles": [
-    "卡特兰数.md",
-    "马尔可夫链.md",
-    "Git.md",
-    "Pandas基础.md",
-    "Verilog.md",
-    "霍克斯过程（Hawkes process）.md",
+    "mis/霍克斯过程（Hawkes process）.md",
+    "数学/可能会被迫要学的东西.md",
+    "mis",
+    "数学",
+    "mis/卡特兰数.md",
+    "mis/马尔可夫链.md",
+    "mis/Git.md",
+    "mis/Pandas.md",
+    "mis/Verilog.md",
     "算法/Vector.md",
     "算法/Memset.md",
     "算法/线段树.md",
@@ -185,7 +188,6 @@
     "操作系统/能力不够学不明白.md",
     "CSAPP",
     "操作系统",
-    "Untitled",
     "算法",
     "the outline of modern Chinese history/Untitled.md",
     "Untitled 1/2025.5.4.md",
