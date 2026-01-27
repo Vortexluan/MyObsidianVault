@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "de3ab4535af39bfb",
+    "id": "3f47fe75f944515f",
     "type": "split",
     "children": [
       {
-        "id": "4db456ee0fe77c52",
+        "id": "b95f7e0438e03322",
         "type": "tabs",
         "children": [
           {
-            "id": "76efcd5a1a50d688",
+            "id": "725b3eb67c5b267b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/英语作文/作文练习3.md",
+                "file": "英语/英语词汇/Roadwarden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "作文练习3"
+              "title": "Roadwarden"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d2118e6527af076",
+    "id": "a5e54e51c1be7db7",
     "type": "split",
     "children": [
       {
-        "id": "e47df84b695509e5",
+        "id": "3e8d6a6f98e04ecb",
         "type": "tabs",
         "children": [
           {
-            "id": "313e39dbf9ad0463",
+            "id": "ed4611fe4432c279",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "09d3d4d0e2958464",
+            "id": "4ce124e788993d35",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0c7b4df5278d5670",
+            "id": "093158d7fe163e1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "019e3ee97d586417",
+    "id": "7cec1922fddf33fd",
     "type": "split",
     "children": [
       {
-        "id": "43c833f0cb29a141",
+        "id": "91235959f4ac5521",
         "type": "tabs",
         "children": [
           {
-            "id": "4c97748ee3d95b1e",
+            "id": "813c66c236f523b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "全国大学生数学竞赛（CMC）/一些题目.md",
+                "file": "英语/英语词汇/Roadwarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 一些题目"
+              "title": "Backlinks for Roadwarden"
             }
           },
           {
-            "id": "7b509ddbc80e796f",
+            "id": "0608fa559bb5467f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "全国大学生数学竞赛（CMC）/一些题目.md",
+                "file": "英语/英语词汇/Roadwarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 一些题目"
+              "title": "Outgoing links from Roadwarden"
             }
           },
           {
-            "id": "39d52eb4d64d80da",
+            "id": "0e68a69c999c7e5a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +137,21 @@
             }
           },
           {
-            "id": "afb3013c0b2e099b",
+            "id": "ab9c56cd9842f575",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "全国大学生数学竞赛（CMC）/一些题目.md",
+                "file": "英语/英语词汇/Roadwarden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 一些题目"
+              "title": "Outline of Roadwarden"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,65 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "76efcd5a1a50d688",
+  "active": "725b3eb67c5b267b",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "英语/英语词汇/Reigns.md",
+    "英语/英语词汇/Roadwarden.md",
+    "英语/英语词汇/Sanabi.md",
+    "英语/英语词汇/Sally Face.md",
+    "英语/英语词汇/The Coffin Of Andy And Leyley(episode 1-2).md",
+    "英语/英语词汇/Yuppie Psycho.md",
+    "英语/英语词汇/To The Moon.md",
     "英语/英语词汇.md",
-    "英语/英语作文/作文练习3.md",
-=======
-    "英语/英语作文/作文练习1.md",
->>>>>>> cec75abe91ee392a42b349cf1863dc59a7bf0597
-    "英语/英语作文/作文练习4.md",
-    "attachments/Pasted image 20251218164720.png",
-    "英语/英语作文/作文练习3.md",
-    "attachments/Pasted image 20251215112711.png",
-    "attachments/Pasted image 20251215112535.png",
-    "英语/英语作文/作文练习2.md",
-    "算法/递归.md",
-    "mis/卡特兰数.md",
-    "attachments/429cf08a-08ce-4cbf-8414-1d025bd871ab.png",
-    "attachments/ab2a2f1d98ce461a287992fb74212425.png",
-    "attachments/Pasted image 20250928153910.png",
-    "全国大学生数学竞赛（CMC）/预置二次项技巧（存在二阶导数问题）.md",
-    "全国大学生数学竞赛（CMC）/一些题目.md",
-    "全国大学生数学竞赛（CMC）/收敛控制定理（Dominated Convergence Theorem, DCT）.md",
-    "全国大学生数学竞赛（CMC）/一重积分化二重积分计算的一些理解.md",
-    "全国大学生数学竞赛（CMC）/扰动思想（Perturbation Theory）.md",
-    "全国大学生数学竞赛（CMC）/欧拉-麦克劳林展开.md",
-    "全国大学生数学竞赛（CMC）/裂项 求和或求乘积.md",
-    "全国大学生数学竞赛（CMC）/积分形式的泰勒展开.md",
-    "全国大学生数学竞赛（CMC）/含参数积分的极限问题，特定形式的分段估计、lim int、拉普拉斯方法.md",
-    "全国大学生数学竞赛（CMC）/差分迭代技巧.md",
-    "全国大学生数学竞赛（CMC）/边界消失的H1空间上连续线性泛函上界形成的积分不等式.md",
-    "数学/范数.md",
-    "全国大学生数学竞赛（CMC）/Bernstein方法.md",
-    "全国大学生数学竞赛（CMC）/Young 不等式.md",
-    "数学/简单的偏微分方程（PDE）.md",
-    "数学/简单渐进分析.md",
-    "数学/可能会被迫要学的东西.md",
-    "数学/数学分析.md",
-    "attachments/Pasted image 20250928160700.png",
-    "attachments/Pasted image 20250928154557.png",
-    "attachments/Pasted image 20250928154403.png",
-    "attachments/Pasted image 20250928153942.png",
-    "英语/英语作文",
-    "英语词汇",
-    "英语",
-    "操作系统/CSAPP",
-    "全国大学生数学竞赛（CMC）",
-    "attachments",
-    "mis/assets",
-    "mis",
-    "数学",
-    "CSAPP"
+    "英语/英语词汇"
   ]
 }

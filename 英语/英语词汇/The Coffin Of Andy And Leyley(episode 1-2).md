@@ -1,0 +1,6 @@
+Where we may frolic amongst the foliage.
+You have this habit of flip-flopping.
+Instead of oscillating between freaking out and apathy...
+To think I'd never bear witness to you being distraught over our parents' corpses...
+I slaved away in the kitchen  for you.
+mortify
