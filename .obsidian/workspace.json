@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/英语词汇/Cyberpunk Bartender Action.md",
+                "file": "英语/英语词汇/Yog-Sothoth's Yard(7.0).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberpunk Bartender Action"
+              "title": "Yog-Sothoth's Yard(7.0)"
+            }
+          },
+          {
+            "id": "4f0b7bfdbf43de85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -171,15 +183,25 @@
   },
   "active": "725b3eb67c5b267b",
   "lastOpenFiles": [
+    "英语/英语词汇/The Hungry Lamb-Traveling in the Late Ming Dynasty(7.0-).md",
+    "英语/英语词汇/Yog-Sothoth's Yard(7.0).md",
+    "英语/英语词汇/Finding Paradise(9.5).md",
+    "英语/英语词汇/Epic Battle Fantasy 3(7.5+).md",
+    "英语/英语词汇/Cyberpunk Bartender Action(8-~8.5-).md",
+    "英语/英语词汇/Persona 5 Royal(8.5-).md",
+    "英语/英语词汇/Fran Bow.md",
+    "英语/英语词汇/Cultist Simulator.md",
+    "英语/英语词汇/Citizen Sleeper(8.0+).md",
+    "英语/英语词汇/To The Moon(8.5).md",
     "英语/英语词汇/Roadwarden.md",
-    "英语/英语词汇/Cyberpunk Bartender Action.md",
-    "英语/英语词汇/标记的含义.md",
-    "英语/英语词汇/Reigns.md",
-    "英语/英语词汇/Sanabi.md",
-    "英语/英语词汇/Sally Face.md",
+    "英语/英语词汇/Phoenix Wright-Ace Attorney Trilogy.md",
     "英语/英语词汇/The Coffin Of Andy And Leyley(episode 1-2).md",
-    "英语/英语词汇/Yuppie Psycho.md",
-    "英语/英语词汇/To The Moon.md",
+    "英语/英语词汇/Yuppie Psycho(8-).md",
+    "英语/英语词汇/Reigns.md",
+    "英语/英语词汇/Tales of The Black Forest.md",
+    "英语/英语词汇/Sanabi(8.5-).md",
+    "英语/英语词汇/Sally Face(8.0+).md",
+    "英语/英语词汇/标记的含义.md",
     "英语/英语词汇.md",
     "英语/英语词汇"
   ]
