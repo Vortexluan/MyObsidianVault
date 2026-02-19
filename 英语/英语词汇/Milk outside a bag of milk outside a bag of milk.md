@@ -1,0 +1,3 @@
+Yeah, I'm all beside myself.
+lumps of coagulated blood in transparent coating travel down my esophagus(x), scratching its soft walls, leaving behind furrows...
+I don't even have time to blink before my thoughts start whirling all over the ceiling of their own accord, forming a whimsical patterns.
