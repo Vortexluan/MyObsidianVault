@@ -36,3 +36,5 @@ Jeanne raised her eyebrows, exasperated.
 You sternly expand the danger of such insolence to your brother.
 A pious man.
 At least your mentor is too far away to excoriate you.
+When Jeanne and Ulrich find out what you have done, they are livid.
+Acquiescing to El Laverius's demands would mean publicly admitting how weak the Order has become.

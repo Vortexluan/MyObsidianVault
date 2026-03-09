@@ -21,8 +21,8 @@ Each body here can be recast as a piece of property.
 She stamps her foot on the metal grating of the walkway.
 Feng is in good spirits, and bundles you inside before you even have chance to greet him.
 Then out onto the walkway where Yannick lies still, enforcers gathered around him bemused.
-all gradient bars and obtuse acronyms
-Ankhita works her way through dense undergrowth, pushing aside branches and fronds
+all gradient bars and obtuse acronyms     acronym != abbreviation
+Ankhita works her way through dense undergrowth, pushing aside branches and fronds.
 Repairs, other pharmaceutical.
 he used to run recon for a corporate outfit but he got sick of the pay.
 Emphis nods throughout, cooking as he does with deft and skillful movements.

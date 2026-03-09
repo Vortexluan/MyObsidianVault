@@ -1,11 +1,11 @@
 gregarious
 Some Traits are Congenital, meaning they might be inherited by your children.
 Recipient
-My retinue and I will arrive in Munster in a few weeks'time.
+My retinue and I will arrive in Munster in a few weeks' time.
 You can station a Men-at-Arms Regiment.
 Chancellor
 Tenets, at the top, are special Doctrines that give bonuses or options for your Character.
-You guess Conchobar is conscientious.
+You guess Conchobar is conscientious.   tenet != tenant
 A Culture is defined by its Ethos, Culture Pillars, and traditions.
 But, the unspoken rest of the sentence intimated, there's scant change this won't damage the inflow of precious taxes.
 My cousin Earl Conchobar suddenly walks up to me and pushes my straight into the horse water trough.

@@ -10,11 +10,10 @@ Scotti guessed it to be the census.  consensus
 crescent
 ode
 Now listen to how the poet characterize Herma-Mora's invocation in the eighteenth stanza of the forth book.
-slavish
+slavish != lavish
 incessant  excessive
 "The Reclaimations" are True Tribunal.
-They were aberrations.
-poor sad could be anyone
+They were aberrations.  aberration != abbreviation
 boggle
 Black Book: Epistolary Acumen
 Since the ebony mine dried up, they pulled up stakes.
@@ -33,10 +32,10 @@ Please, regale us with your story.
 emaciated
 fluke
 Float on a boat through the moat called the sea her and me!
-So, the prodigal murder come.
+prodigal
 decadent
-but I reminded myself it might have been the result of sitting at a sumptuous banquet and not partaking.    sumptuous scrumptious scrupulous
-presumptuous
+but I reminded myself it might have been the result of sitting at a sumptuous banquet and not partaking.    sumptuous scrumptious(x) scrupulous
+presumptuous != sumptuous
 What would they say if I took the antidote, confessing my allegiance to you and was summarily executed?
 sycophant
 Logrolf the willful

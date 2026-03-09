@@ -13,7 +13,7 @@ For some reason I've been hung up on it since this morning.
 Bank evicted him from his house.
 I've seen lots of sex workers over the years, and she seems pretty giddy.
 My contact will arrive at the rendezvous point soon.
-It's just that analgesics is still numbing me.
+It's just that analgesics is still numbing me.   analgesic depressant sedative narcotic...
 Gruff. The kind that eat Bronson root every morning.
 The wall is an analogy for the fact that not everyone was willing to go that far.
 If you weren't a fan of yuri or slice-of-life shows already, then be prepared to join the moe church this season with the premiere of Yooroo Yooree.
@@ -27,5 +27,4 @@ It's a gift from my folks. It was delayed in customs, but here it is.
 Did you perhaps go through a nanomachine expunge?
 It strikes as a bit... pretentious, in my opinion.
 They just so happen to have control over what tantamount to city-state.
-Jill, I love you and I know you're saying that in jest...
 Even if she had the best intentions, she could be... abrasive from time to time.

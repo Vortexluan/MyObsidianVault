@@ -1,7 +1,7 @@
 You awake in your delirious dream to find yourself in your childhood dream.
 The aesthetics of disaster were central to that emerging milieu.
 pleat
-An old defective flatscreen that your mom never bothered to bring to the curb.
+An old defective flatscreen that your mom never bothered to bring to the crib.   curb != crib
 It will leave the entire region submerged as critical levees breach.
 Small militant enclaves will form along the high ground of Mississippi River.
 morphine
@@ -9,7 +9,7 @@ Million sits in her characteristic slouch, lost in thought.
 Her carapace has taken on the rusted and weather-worn quality of the rest of the machinery in the yard.
 A 2x4 cross, plywood(x) plaque, cairns(x) of pulverized concrete.
 Nearly broke an axle driving over a pothole in Hollygrove.
-The moldering strip mall.
+The moldering(x) strip mall.
 He was interred in a mausoleum.
 It appears as if someone has tampered with the crypt...
 It peels away from the thin caulk bead effortlessly.

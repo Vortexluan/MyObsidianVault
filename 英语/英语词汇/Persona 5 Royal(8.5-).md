@@ -11,28 +11,28 @@ You scarfed that down without any hesitation.
 conglomerate
 and lived in squalor
 You're just gonna ignore that golden sheen?
-revert
+revert != reverse
 Or maybe criticize one of your constituents again?
 The first was being caught missing a legislative meeting.
 We'll need to pass through the lounge and gallery.
 How dare you trample my tranquil bamboo garden with those grimy(x) feet!
-The one sullied the very nature of art itself.
+The one sullied the very nature of art itself.   sully != sullen
 Sorry, I don't mean to run out on you like that.
 Even though they are ruffians who plunder other ships and coastal settlement through force.
-You'd better catch it up with local fauna.
-The Shujin track team's being reinstated!
-Many of you suffer greatly from this distorted world of disparity.
+You'd better catch it up with local fauna.    fauna flora
+The Shujin track team's being reinstated!  track and field team
+Many of you suffer greatly from this distorted world of disparity.    disparity != disparate != disparage
 Very well, let's pitch in.
 Have you guys covered totalitarianism yet?
 No matter how much you rail against it, you shall remain our inmate.
 To paraphrase Hagel, advancement cannot occur without both thesis and antithesis.
 Man, what gives? First that effed up teacher, now a bullshit con artist.
 Somewhere in the middle of it all, my old stubbornness was tempered into conviction.
-By the way, magnesium turns your hair white.
-My hear, too, is overcast.
+By the way, magnesium turns your hair white.     magnesium calcium aluminum sodium titanium
+My heart, too, is overcast.
 Do you want to play billiards together?
-Bringing up my sister to upset me, are you? It seems there's no limit to your duplicity.
-His incandescent figure, alluring face... (fluorescent)
+Bringing up my sister to upset me, are you? It seems there's no limit to your duplicity.    duplicity != duplicate
+His incandescent figure, alluring face...     incandescent fluorescent
 I'm flat broke.
 The XYZs of applying pickup techniques. Keep looking smooth, even if you drop the ball.
 Between paper bills and coins, which one is issued by the government?
@@ -46,7 +46,7 @@ Joker, we'll defer to you regarding its timing.
 Both were on their high horse.
 That's why people try to make themselves seem bigger by flaunting their power through money.
 Your eyes are glazing over...
-I can't be comfortable with all this gravel at the bottom of the...
+I can't be comfortable with all this gravel at the bottom of the...  gravel != gavel
 I'm just a bit salty.
 It's not too off the mark.
 Up until now, I've been the quintessential honor student.

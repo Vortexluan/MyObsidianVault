@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/英语词汇/Phoenix Wright-Ace Attorney Trilogy.md",
+                "file": "英语/英语词汇/The Elder Scrolls 5 - Skyrim(8.5-).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phoenix Wright-Ace Attorney Trilogy"
-            }
-          },
-          {
-            "id": "4f0b7bfdbf43de85",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "The Elder Scrolls 5 - Skyrim(8.5-)"
             }
           }
         ]
@@ -56,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "7cec1922fddf33fd",
@@ -172,43 +160,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
   "active": "725b3eb67c5b267b",
   "lastOpenFiles": [
+    "英语/英语词汇/The Coffin Of Andy And Leyley(episode 1-2).md",
+    "英语/英语词汇/Tales of The Black Forest.md",
+    "英语/英语词汇/Steins; Gate(8.5).md",
+    "英语/英语词汇/Sanabi(8.5-).md",
+    "英语/英语词汇/Crusader Kings III.md",
+    "英语/英语词汇/Kingdom Come - Deliverance.md",
+    "英语/英语词汇/NORCO.md",
+    "英语/英语词汇/WEST OF LOATHING.md",
+    "英语/英语词汇/Sid Meier's Civilization VI.md",
+    "英语/英语词汇/Sally Face(8.0+).md",
     "英语/英语词汇/Tales of Berseria.md",
-    "英语/英语词汇/Beacon Pine.md",
+    "英语/英语词汇/Finding Paradise(9.5).md",
+    "英语/英语词汇/Curious Expedition.md",
+    "英语/英语词汇/Epic Battle Fantasy 3(7.5+).md",
+    "英语/英语词汇/Death Stranding(9.0-).md",
+    "英语/英语词汇/Darkest Dungeon.md",
     "英语/英语词汇/Fallout - New Vegas.md",
-    "英语/英语词汇/PARANORMA SIGHT.md",
-    "英语/英语词汇/Death Stranding.md",
     "英语/英语词汇/The Life and Suffering of Sir Brante.md",
     "英语/英语词汇/Baldur's Gate 3.md",
-    "英语/英语词汇/Red Dead Redemption 2.md",
-    "英语/英语词汇/Sid Meier's Civilization VI.md",
-    "英语/英语词汇/Golden Treasure - The Great Green.md",
-    "英语/英语词汇/Aces & Adventures.md",
-    "英语/英语词汇/Slay the Spire.md",
-    "英语/英语词汇/The Red Strings Club.md",
-    "英语/英语词汇/The Thaumaturge.md",
-    "英语/英语词汇/To The Moon(8.5).md",
-    "英语/英语词汇/Yog-Sothoth's Yard(7.0).md",
-    "英语/英语词汇/Yuppie Psycho(8-).md",
-    "英语/英语词汇/Reigns - Her Majesty.md",
-    "英语/英语词汇/Milk outside a bag of milk outside a bag of milk.md",
-    "英语/英语词汇/NORCO.md",
-    "英语/英语词汇/Darkest Dungeon.md",
-    "英语/英语词汇/Pillars of Eternity.md",
-    "英语/英语词汇/Crusader Kings III.md",
-    "英语/英语词汇/The Invincible.md",
-    "英语/英语词汇/Steins; Gate.md",
-    "英语/英语词汇/Portal2(8.5+).md",
+    "英语/英语词汇/Cyberpunk Bartender Action(8-~8.5-).md",
+    "英语/英语词汇/Persona 5 Royal(8.5-).md",
+    "英语/英语词汇/Cultist Simulator.md",
+    "英语/英语词汇/Citizen Sleeper(8.0+).md",
+    "英语/英语词汇/Before Your Eyes(8.5+).md",
+    "英语/英语词汇/Beacon Pine(7.5).md",
+    "英语/英语词汇/Baldur's Gate.md",
     "英语/英语词汇"
   ]
 }
