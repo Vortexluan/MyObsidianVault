@@ -32,7 +32,7 @@ Unrequited? Or...
 Whatever, love is transitory - or ended in gunfire.
 the interior and exterior doors will hermetically seal to prevent harm.  hermit != hermetic
 compliance
-expository != exposition
+expository != exposition (事实上有相似的)
 marauder
 misgiving
 petulant

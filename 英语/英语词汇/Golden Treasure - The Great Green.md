@@ -1,4 +1,4 @@
-but a lurid gash of feelings and ideas suddenly thrust upon you.
+but a lurid gash of feelings and ideas suddenly thrust upon you.  lurid != lucid
 Your long neck, graceful limbs and supple tail transform every motion into a weaving cascade of flowing movement.
 Rain is falling everywhere, tumbling and vaulting off of leaves.
 The redolent Essence of the longear dances on your tongue.

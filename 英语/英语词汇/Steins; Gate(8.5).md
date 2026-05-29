@@ -1,5 +1,5 @@
 On the contrary, she's the one psyching me out!
-Panic took hold as the enormity of what had just happened struck me.
+Panic took hold as the enormity of what had just happened struck me.0
 But along the way, we have managed to create some ingenious Future-ish Gadgets as a byproduct of our research.
 but I'm not one to just sit and listen to some genius girl's drivel.
 My memories don't mesh with reality.
