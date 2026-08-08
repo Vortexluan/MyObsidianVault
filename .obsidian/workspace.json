@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "形式语言与自动机.md",
+                "file": "英语/英语词汇/Palword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "形式语言与自动机"
+              "title": "Palword"
+            }
+          },
+          {
+            "id": "8eadf13191805292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/英语词汇/Mass Effect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mass Effect"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -169,36 +186,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "164db51687da1101",
+  "active": "8eadf13191805292",
   "lastOpenFiles": [
-    "英语/英语词汇/Raging Loop.md",
+    "英语/英语词汇/Palword.md",
+    "算法/线段树.md",
+    "英语/英语词汇/Mewgenics.md",
+    "CMC(The Chinese Mathematics Competitions)/收敛控制定理（Dominated Convergence Theorem, DCT）.md",
+    "CMC(The Chinese Mathematics Competitions)/双元法.md",
+    "英语/英语词汇/Mass Effect.md",
+    "DCT, Discrete Cosine Transform(离散余弦转换).md",
+    "英语/英语词汇/Kingdom Come - Deliverance.md",
+    "(EE367)Computational Imaging/Lecture 4 Digital Photography II.md",
+    "attachments/Pasted image 20260704163021.png",
+    "(EE367)Computational Imaging/Lecture 3 Digital photography I.md",
+    "attachments/Pasted image 20260704152012.png",
+    "attachments/Pasted image 20260703221203.png",
+    "(EE367)Computational Imaging/Lecture 2 The human visual system.md",
+    "英语/英语词汇/Rimworld.md",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c.md",
+    "attachments/Pasted image 20260607151557.png",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/多线程、泛型与反射 6e572eeb16b3446893407c2aefcd0d6b.md",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/流、IO 和网络编程 e3ad3bfe44e7445f813277e23ee47458.md",
+    "英语/英语词汇/Roadwarden(8.5-).md",
+    "mis/Git.md",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/软件开发概述 153a5ced53594027873a9d540d7f40be.md",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/Java 基础 3a7a1a506d2a49c1bc5676caeba39fbe.md",
     "形式语言与自动机.md",
+    "Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/多线程、泛型与反射 6e572eeb16b3446893407c2aefcd0d6b/Untitled.png",
+    "英语/英语词汇/Raging Loop.md",
     "CMC(The Chinese Mathematics Competitions)/扰动思想（Perturbation Theory）.md",
     "CMC(The Chinese Mathematics Competitions)/差分迭代技巧.md",
     "CMC(The Chinese Mathematics Competitions)/裂项 求和或求乘积.md",
     "英语/英语词汇/Fran Bow(8.0-).md",
-    "英语/英语词汇/Kingdom Come - Deliverance.md",
     "CMC(The Chinese Mathematics Competitions)/含参数积分的极限问题，特定形式的分段估计、lim int、拉普拉斯方法.md",
-    "英语/英语词汇/Rimworld.md",
-    "英语/英语词汇/Steins; Gate(8.5).md",
-    "(EE367)Computational Imaging/Lecture 3 Digital photography I.md",
-    "英语/英语词汇/Mass Effect.md",
-    "(EE367)Computational Imaging/Lecture 2 The human visual system.md",
-    "(EE367)Computational Imaging/Lecture 1 Introduction and fastforward.md",
     "(EE367)Computational Imaging/Untitled",
     "(EE367)Computational Imaging",
-    "英语/英语词汇/Reigns - Her Majesty.md",
-    "英语/英语词汇/Reigns.md",
-    "英语/英语词汇/Tales of Berseria.md",
-    "英语/英语词汇/The Thaumaturge.md",
-    "英语/英语词汇/To The Moon(8.5).md",
-    "英语/英语词汇/WEST OF LOATHING.md",
-    "英语/英语词汇/Yog-Sothoth's Yard(7.0).md",
-    "英语/英语词汇/Yuppie Psycho(8-).md",
-    "英语/英语词汇/标记的含义.md",
-    "英语/英语词汇/Aces & Adventures.md",
-    "英语/英语词汇/Slay the Spire 2.md",
-    "英语/英语词汇/Green Hell.md",
     "attachments/Pasted image 20250928154403.png",
     "attachments/Pasted image 20251215112711.png",
     "英语/英语词汇"

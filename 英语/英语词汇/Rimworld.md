@@ -32,6 +32,11 @@ Rhinoceros
 Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance.
 An analysis computer inspects the blood stream, classifies pathogens, and rapidly prompts the body's natural immune system to respond  to them faster than it could alone.
 She thrashes her head against the pillow, sweat plastering grey-streaked hair to her temples.
-grey pall..
-
-
+grey pall.
+He gestures with his pickaxe toward the fire, pausing his trek to the drill.
+She halts her wandering, hands clenched, eyes burning with fervor beneath the overcast sky.
+She stretches languidly, the motion deliberately slow, a smirk playing on her lips.
+The lighting in this frigid hovel simply fails to meet my standard.
+It's above your pay grade to critique.
+An empirical observation, yet utterly irrelevant to the lady's mood.
+She rears back and kicks the door, breath hissing through sharp teeth.s5
