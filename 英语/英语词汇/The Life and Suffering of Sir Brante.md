@@ -38,3 +38,9 @@ A pious man.
 At least your mentor is too far away to excoriate you.
 When Jeanne and Ulrich find out what you have done, they are livid.
 Acquiescing to El Laverius's demands would mean publicly admitting how weak the Order has become.
+It is the Inquisition's duty to act as a sword of vengeance of the Church, to inspire awe and trepidation in the hearts of sinners.
+But the old clergy balks at the idea of Lennart and the new believers leading the ritual.
+The new faith members has swelled of late.
+Do not infringe upon the divine order.
+This is why he offered them shelter and safety in his own impregnable citadel.
+despite the captain's assurance, you remain apprehensive.

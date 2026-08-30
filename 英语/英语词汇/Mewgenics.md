@@ -6,3 +6,4 @@ Don't go getting boned in the boneyard!
 Good, because it's time to pay the piper!
 Kasli cracks open the can of tuna. Absolutely delectable!
 As my kids guzzle red 40 and my husband beats our dog!
+pounces on the rock, smashing it asunder!
