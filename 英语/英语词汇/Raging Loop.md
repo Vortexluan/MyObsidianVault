@@ -45,3 +45,11 @@ In that situation, I'd have focus on helping my side emerge victorious with myse
 Kanzo-san was beginning to become irate, and it was clear we had to begin the feast soon.
 That's sophistry! We humans can't win if we don't hang anyone!
 It didn't seem cheap at all, and though I couldn't be sure, it seemed to be designed to look divinely imposing.
+Swift Maternal Death
+The words were even colder than encroaching shadow of death.
+If he were the snake, I'd kill him, and pass myself off as his guardian...
+Apparently, Great Lord Shin'nai took care of the costumes as well as evidence. What a methodical god.
+Personal vendettas, lovers' spats, brotherly union, maturity, generation gaps.
+That promise was an unexpected boon for my own sanity, too.
+Sounds like sophistry to me, but I admit I question the guilt of this child.
+She was curt with me.
